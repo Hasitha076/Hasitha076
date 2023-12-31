@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Machine Learning, MERN & MEAN**
 
+- 👨‍💻 All of my projects are available at [https://github.com/Hasitha076](https://github.com/Hasitha076)
+
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **hasithamadushanepa076@gmail.com**
