@@ -10,9 +10,8 @@ An aspiring Software Engineer from Colombo, Sri Lanka. I am looking forward to i
 🏏 Fun fact I love cricket
 
 Connect with me:
-https://icons8.com/icon/13930/linkedin
+🔗
 
 Languages and Tools:
+https://www.postman.com/
 arduino c css3 express firebase git heroku html5 illustrator java javascript linux matlab mongodb mysql nodejs photoshop php postman python react redux
-
- jonathannithi
