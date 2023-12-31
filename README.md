@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hasitha</h1>
 <h3 align="center">An aspiring Software Engineer from Colombo, Sri Lanka. I am looking forward to improve my knowledge and my experience in MERN stack. I enjoy programming because it gives me a sense of building something useful. Although it may be frustrating at times I find the journey very fulfilling.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🌱 I’m currently learning **Machine Learning, MERN & MEAN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hasitha076](https://github.com/Hasitha076)
